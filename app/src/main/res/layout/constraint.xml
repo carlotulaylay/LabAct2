@@ -7,10 +7,10 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="45dp"
-        android:layout_height="31dp"
+        android:layout_width="129dp"
+        android:layout_height="22dp"
         android:layout_marginBottom="156dp"
-        android:text="Contraint Layout"
+        android:text="constraint layout"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.501"
         app:layout_constraintLeft_toLeftOf="parent"
